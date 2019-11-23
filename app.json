@@ -1,0 +1,19 @@
+{
+  "appKey": "Ik9Y4fL239p4K75BqRPfPe3rUt2aRt2J",
+  "appSecret": "5bxPtIMvIRJicd84C321jpvfozztEnQN",
+  "projectId": "e9d8cbd98b6e9dcf15ab7589b1cc0571",
+  "id": 289,
+  "name": "hrapp",
+  "framework": "vue",
+  "platform": "pc",
+  "description": "",
+  "git": {
+    "url": "https://github.com/Alex9a/hr.git",
+    "isPrivate": 0,
+    "username": "alex9a",
+    "password": "Aa@445566"
+  },
+  "alias": {},
+  "pages": [],
+  "dependencies": []
+}
